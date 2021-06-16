@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b2d1cd07.chunk.css",
+    "main.js": "/my-app/static/js/main.d64850d8.chunk.js",
+    "main.js.map": "/my-app/static/js/main.d64850d8.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.97c167ff.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.97c167ff.js.map",
+    "static/js/2.f087bb42.chunk.js": "/my-app/static/js/2.f087bb42.chunk.js",
+    "static/js/2.f087bb42.chunk.js.map": "/my-app/static/js/2.f087bb42.chunk.js.map",
+    "static/js/3.34a23f5c.chunk.js": "/my-app/static/js/3.34a23f5c.chunk.js",
+    "static/js/3.34a23f5c.chunk.js.map": "/my-app/static/js/3.34a23f5c.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.b2d1cd07.chunk.css.map": "/my-app/static/css/main.b2d1cd07.chunk.css.map",
+    "static/js/2.f087bb42.chunk.js.LICENSE.txt": "/my-app/static/js/2.f087bb42.chunk.js.LICENSE.txt",
+    "static/media/Copenhagen.04815273.jpg": "/my-app/static/media/Copenhagen.04815273.jpg",
+    "static/media/Hello.a332dab9.gif": "/my-app/static/media/Hello.a332dab9.gif",
+    "static/media/LanguageSymbol.47eee486.PNG": "/my-app/static/media/LanguageSymbol.47eee486.PNG",
+    "static/media/SkillAdvanced.f6edb1a7.PNG": "/my-app/static/media/SkillAdvanced.f6edb1a7.PNG",
+    "static/media/SkillAverage.3525df18.PNG": "/my-app/static/media/SkillAverage.3525df18.PNG",
+    "static/media/SkillIntermediate.c2833397.PNG": "/my-app/static/media/SkillIntermediate.c2833397.PNG",
+    "static/media/SkillMastery.9ace2821.PNG": "/my-app/static/media/SkillMastery.9ace2821.PNG",
+    "static/media/SkillModerate.c6ce4e13.PNG": "/my-app/static/media/SkillModerate.c6ce4e13.PNG",
+    "static/media/SkillVeryAdvanced.8849b7f2.PNG": "/my-app/static/media/SkillVeryAdvanced.8849b7f2.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c167ff.js",
+    "static/js/2.f087bb42.chunk.js",
+    "static/css/main.b2d1cd07.chunk.css",
+    "static/js/main.d64850d8.chunk.js"
+  ]
+}
