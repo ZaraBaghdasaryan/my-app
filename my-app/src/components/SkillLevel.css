@@ -1,0 +1,19 @@
+.skillContainer{
+    width: 120%;
+    background-color: #eee;
+    border-radius: 25px;
+
+
+}
+
+.skillBar{
+    height: 20px;
+    background-color: #e43397;
+    border-radius: 25px;
+}
+
+.skillText{
+    font-size: xx-large;
+    font-family: 'Space Mono', monospace;
+
+}
